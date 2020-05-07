@@ -62,39 +62,35 @@ experiences:
       time: 2019 - Present
       company: Biodata, Israel
       details: |
-        lorem ipusum 
+        lorem ipusum
           - Maintaining, monitoring, optimizing and provisioning, a large fleet of cloud-based and premises web
             servers.
+
           - Helping provide and design deployments, scalability, durability and fast recovery of a
             large throughput architecture.
-          - Helping provide and design deployments, scalability, durability and fast recovery of a
-            large throughput architecture.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Working with production-grade cloud and on-premise environments.
+
+          - Monitoring, troubleshooting, optimising and automating various processes within the
+            organisation.
+
+          - Consult regarding cloud usage and cost optimization
+
+          - leading the Devops and CI-CD mindset in the company
+
+          - Design procedures for system and maintenance
+
+    - role: Technical & Business Operations Analyst
+      time: 2015 - 2019
+      company: Amdocs, Israel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The role involves leading group of experts(multinational) in MIS applications world in order to provide second level(Teir 2) support for handling support cases , The role involves handling incidents and service requests from customers and users, The role involves understanding procedures, set standard methods and procedures of the unit, Leading projects.
 
-          - Bullet point
-          - Bullet point
+          - Performed in-depth and detailed data analysis in troubleshooting and issue resolution, verifying data behaves appropriately in the system.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Prepared detailed, easy to understand documentation and knowledge base for users and team members.
 
-          - Bullet point
-          - Bullet point
+          - Leading new projects and implementing in users areas and instruct team for it.
 
 projects:
     title: Projects
