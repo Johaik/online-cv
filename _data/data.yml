@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -34,7 +34,7 @@ sidebar:
       - item: IoT
         link:
 
-      - item: Dj
+      - item: DJ
         link:
 
       - item: Cooking
@@ -98,22 +98,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: AWS & GCP
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Unix/Linux
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: python
+        level: 92%
+
+      - name: Bash
+        level: 75%
+
+      - name: NodeJS
         level: 60%
 
 footer: >
