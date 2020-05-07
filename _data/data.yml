@@ -104,17 +104,20 @@ skills:
       - name: Unix/Linux
         level: 98%
 
-      - name: Ruby on Rails
-        level: 95%
+      - name: Docker
+        level: 98%
 
-      - name: python
-        level: 92%
+      - name: Ruby on Rails
+        level: 90%
 
       - name: Bash
-        level: 75%
+        level: 90%
+
+      - name: python
+        level: 78%
 
       - name: NodeJS
-        level: 60%
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
